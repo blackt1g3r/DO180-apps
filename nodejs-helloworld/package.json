@@ -7,5 +7,6 @@
   "license": "ASL",
   "dependencies": {
     "express": "~4.14.x"
-  }
+  },
+  "script": {"start","node app.js"}
 }
